@@ -4,6 +4,7 @@ defineProps<{ msg: string }>();
 
 <template>
   <h1>hola mundo</h1>
+  <h2>hola mundo cruel!!!</h2>
 </template>
 
 <style scoped lang="scss">
