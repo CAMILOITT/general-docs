@@ -1,11 +1,8 @@
 <script setup lang="ts">
-defineProps<{ msg: string }>();
 </script>
 
 <template>
-  <h1>hola mundo</h1>
-  <h2>hola mundo cruel!!!</h2>
-  <h3>adios mundo cruel</h3>
+  <h1>inicio del app</h1>
 </template>
 
 <style scoped lang="scss">
